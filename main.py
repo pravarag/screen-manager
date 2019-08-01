@@ -6,7 +6,7 @@ import os
 
 def manage_screens():
     counter = 0
-    screen_dir = '/Users/pravar_ag/Python_Work/git_clones/screen-manager/screens'
+    screen_dir = ''
     while counter == 0:
         print("Inside counter")
         time.sleep(5)
